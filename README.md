@@ -10,7 +10,7 @@ It includes text preprocessing, sentiment classification, and visualization of i
 - **Visualization**: Word clouds, frequency plots, and other graphical representations of review content.
 
 ## Requirements
-To run the notebook, you need Python 3.x and the following packages:
+The notebook was written on Google Colab. To run it,  you need Python 3.x and the following packages:
 - pandas
 - numpy
 - matplotlib
