@@ -1,6 +1,6 @@
 # Movie Review Analysis
 
-This repository contains a Jupyter Notebook for analyzing the sentiment of movie reviews.  
+This repository contains a Jupyter Notebook for analyzing the sentiment of IMDB movie reviews.  
 It includes text preprocessing, sentiment classification, and visualization of insights extracted from the dataset 'IMDB Dataset.csv'.  
 You can find my final model definitions and parameters in 'models'.
 
@@ -11,7 +11,7 @@ You can find my final model definitions and parameters in 'models'.
 - **Visualization**: Word clouds, frequency plots, and other graphical representations of review content.
 
 ## Requirements
-The notebook was written on Google Colab. To run it,  you need Python 3.x and the following packages:
+The notebook was written on Google Colab. To run it, you need Python 3.x and the following packages:
 - pandas
 - numpy
 - matplotlib
