@@ -1,7 +1,7 @@
 # Movie Review Analysis
 
 This repository contains a Jupyter Notebook for analyzing the sentiment of movie reviews.  
-It includes text preprocessing, sentiment classification, and visualization of insights extracted from the dataset.
+It includes text preprocessing, sentiment classification, and visualization of insights extracted from the dataset 'IMDB Dataset.csv'.
 
 ## Features
 - **Data Preprocessing**: Cleaning and preparing raw movie review data for analysis.
